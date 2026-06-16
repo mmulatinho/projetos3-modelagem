@@ -1,4 +1,4 @@
-# Prisma Key — Aplicação ESG (Etapas 03 / 04 / 05 / 06)
+# Prisma Key — Aplicação ESG
 
 Aplicação Streamlit que integra o banco de dados ESG da disciplina, cobrindo:
 
